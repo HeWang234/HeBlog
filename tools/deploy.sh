@@ -61,7 +61,7 @@ test() {
     
     --allow_hash_href \
     "$SITE_DIR"
-	# --check-html \
+	# --check-html
 }
 
 resume_site_dir() {
