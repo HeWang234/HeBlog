@@ -18,6 +18,7 @@ https://reference.wolfram.com/language/tutorial/LinearAlgebraMatrixComputations.
 
 
 
+```
 向量属性 vector {2, -5, 4}
 
 向量点积 {12, 20} . {16, -5}
@@ -83,3 +84,5 @@ second derivative of x^2 d^2/dt^2(t^2)  D[x,x]
 还原幂级数 Sum[k(x^k-1),{k,1,∞}]
 
 求幂级数 series[((1-x)^-2)]
+```
+
