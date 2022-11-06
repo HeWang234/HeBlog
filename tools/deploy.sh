@@ -56,7 +56,7 @@ build() {
 }
 
 test() {
-  bundle exec htmlproofer \
+  # bundle exec htmlproofer \
     --disable-external \
     --check-html \
     --allow_hash_href \
