@@ -1,3 +1,8 @@
+---
+title: WolframAlpha
+categories: [RESEARCH]
+---
+
 # WolframAlpha
 
 官网

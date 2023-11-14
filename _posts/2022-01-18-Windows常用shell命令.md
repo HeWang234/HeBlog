@@ -1,3 +1,8 @@
+---
+title: Windows常用shell命令
+categories: [HELP]
+---
+
 # Windows常用shell命令
 
 CMD
