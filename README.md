@@ -1,6 +1,6 @@
-# AlanLee's Blog
+# He's Blog
 
-[网址](https://alanlee234.github.io/alanlee-blog/)
+[网址](https://hewang234.github.io/heblog/)
 
 
 ref:
