@@ -1,6 +1,6 @@
 # He's Blog
 
-[网址](https://hewang234.github.io/heblog/)
+[网址](https://hewang234.github.io/HeBlog/)
 
 
 ref:
