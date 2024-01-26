@@ -33,9 +33,9 @@ Big data -> ELT, NoSQL -> data lakes
 - not only a storage system
 - support on-demand data processing and querying
 
-![image-20210904201204136](../assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904201204136.png)
+![image-20210904201204136](/assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904201204136.png)
 
-![image-20210904201204136](../assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904201204136.png)
+![image-20210904201204136](/assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904201204136.png)
 
 ## 4 Data lake architecture
 
@@ -46,9 +46,9 @@ Big data -> ELT, NoSQL -> data lakes
 
 High-level architectural philosophies lack technical details about functions, which hampers modular and repeatable implementations
 
-![image-20210904201605700](../assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904201605700.png)
+![image-20210904201605700](/assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904201605700.png)
 
-![image-20210904201920868](../assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904201920868.png)
+![image-20210904201920868](/assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904201920868.png)
 
 **users**
 
@@ -115,7 +115,7 @@ The majority of such models are either logic-based or graph-structured with more
 
 structure and navigate the massive heterogeneous datasets in data lakes
 
-![image-20210904181917664](../assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904181917664.png)
+![image-20210904181917664](/assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904181917664.png)
 
 #### 7.1.1 Dataset preparation
 
@@ -131,7 +131,7 @@ e.g. GOODS, DS-kNN
 
 **data discovery**: tries to find a subset of relevant datasets that are similar or complementary to a given dataset in a certain way
 
-![image-20210904181935501](../assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904181935501.png)
+![image-20210904181935501](/assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904181935501.png)
 
 **step** 
 
@@ -200,11 +200,11 @@ metadata-related challenges:
 
 - Expressive power
 
-![image-20210904195507257](../assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904195507257.png)
+![image-20210904195507257](/assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904195507257.png)
 
 - Structural properties and decidability of reasoning tasks
 
-![image-20210904195648542](../assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904195648542.png)
+![image-20210904195648542](/assets/images/2021-09-04-Data-lake-concept-and-systems-a-survey/image-20210904195648542.png)
 
 ### 9.2 Data provenance(data lineage)
 
