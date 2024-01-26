@@ -1,4 +1,5 @@
 ---
+title: Data lake concept and systems: a survey
 categories: [RESEARCH]
 ---
 
