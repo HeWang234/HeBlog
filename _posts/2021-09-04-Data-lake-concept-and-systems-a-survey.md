@@ -1,6 +1,6 @@
 ---
 title: Data lake concept and systems_ a survey
-categories: [RESEARCH]
+categories: [Research]
 ---
 
 # Data lake concept and systems: a survey

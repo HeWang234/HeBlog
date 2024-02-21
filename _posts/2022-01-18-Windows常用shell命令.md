@@ -1,6 +1,6 @@
 ---
 title: Windows常用shell命令
-categories: [HELP]
+categories: [Help]
 ---
 
 # Windows常用shell命令
