@@ -11,6 +11,7 @@ CMD
 | ------------------------------------------------------------ | -------------------- |
 | `dir`                                                        | ls                   |
 | `xcopy D:\A F:\B /T/E`                                       | 复制D:\A中的目录结构 |
+| `dir /s /b > list.txt`                                       | 导出目录到txt        |
 | `rundll32.exe user32.dll LockWorkStation`                    | 锁屏（win+L）        |
 | `netstat -ano | findstr :10020` <br>`taskkill /F /PID <PID>` | 杀端口               |
 
