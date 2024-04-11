@@ -4,8 +4,8 @@
 theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
-# and doesn't have a custom domain. https://github.com/AlanLee234/alanlee-blog
-baseurl: '/alanlee-blog'
+# and doesn't have a custom domain. https://github.com/HeWang234/HeBlog
+baseurl: '/HeBlog/'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -21,31 +21,31 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: AlanLee                         # the main title
+title: HeWang                         # the main title
 
-tagline: AlanLee's Blog   # it will display as the sub-title
+tagline: HeWang's Blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Beijing Institute of Technology
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://alanlee234.github.io'
+url: 'https://hewang234.github.io'
 
 github:
-  username: AlanLee234             # change to your github username
+  username: HeWang234             # change to your github username
 
 twitter:
-  username: AlanLee234            # change to your twitter username
+  username: HeWang234            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: AlanLee
-  email: alan.lee1998@outlook.com             # change to your email address
+  name: HeWang
+  email: he.wang234@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/sralanlee      # change to your twitter homepage
-    - https://github.com/alanlee234       # change to your github homepage
+    - https://github.com/hewang234       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
