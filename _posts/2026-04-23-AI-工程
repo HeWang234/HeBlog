@@ -1,0 +1,41 @@
+
+
+模型 -》 推理层 -》 中间服务层 -》 应用层
+
+在典型 LLM 系统里有三层：
+
+1）推理层（Inference Layer）
+
+负责：
+        •        加载模型权重（如 Hugging Face）
+        •        执行前向推理（GPU/CPU）
+        •        管理显存、batch、并发
+
+例如：
+        •        Ollama
+        •        transformers / vLLM
+
+⸻
+
+2）中间服务层（API Layer）
+
+负责：
+        •        提供 HTTP 接口（类似 OpenAI API）
+        •        统一调用方式
+
+⸻
+
+3）应用层（Application Layer）
+
+负责：
+        •        文档管理（RAG）
+        •        Prompt 编排
+        •        对话 UI
+
+
+Ollama
+
+底层是llama.cpp
+
+竞品
+
