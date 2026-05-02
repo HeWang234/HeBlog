@@ -1,4 +1,10 @@
+---
+title: NJUST-CSE-course-design
+categories: [Study]
+---
+
 # NJUST-CSE-course-design
+
 Course design of College of Computer Science and Technology, Nanjing University Of Science And Technology
 
 南京理工大学 计算机科学与工程学院 课程设计

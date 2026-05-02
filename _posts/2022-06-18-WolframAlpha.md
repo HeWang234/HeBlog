@@ -1,6 +1,6 @@
 ---
 title: WolframAlpha
-categories: [Research]
+categories: [Study]
 ---
 
 # WolframAlpha

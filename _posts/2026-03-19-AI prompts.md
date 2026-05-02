@@ -1,3 +1,8 @@
+---
+title: AI promtps
+categories: [Work]
+---
+
 ## AI prompts
 
 帮我详细的列举和说明这个项目主要的功能和模块，并帮我找一下这个项目有什么亮点？
